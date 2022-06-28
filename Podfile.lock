@@ -1,0 +1,24 @@
+PODS:
+  - Nimble (7.3.2)
+  - Quick (1.3.2)
+  - ResearchKit (2.0.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.3)
+  - Quick (~> 1.3)
+  - ResearchKit (~> 2.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Nimble
+    - Quick
+    - ResearchKit
+
+SPEC CHECKSUMS:
+  Nimble: 5e94a8cacb355943c6c87198035dc4adbb0f10e4
+  Quick: 2623cb30d7a7f41ca62f684f679586558f483d46
+  ResearchKit: 06020ff370f830138b5efd10bd3606acc4de49d6
+
+PODFILE CHECKSUM: 9a8fd1ad5ba4a58530fcc4c8f19c462495fa8827
+
+COCOAPODS: 1.5.3
