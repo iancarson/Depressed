@@ -1,9 +1,3 @@
-//
-//  SnapshotHelper.swift
-//  Example
-//
-//  Created by Felix Krause on 10/8/15.
-//
 
 // -----------------------------------------------------
 // IMPORTANT: When modifying this file, make sure to
