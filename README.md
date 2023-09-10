@@ -1,3 +1,4 @@
 # Depressed
-An an IOS application that helps the user to self-evaluate if they are depressed. Several steps are used to determine.  
+An an IOS application that helps the user to self-evaluate if they are depressed. Several steps are used to determine if one is depressed or not. 
+Through a series of questions prompted to the user and 
 In case of any query or clarification, you can reach me via my gmail address iancarson41@gmail.com.
