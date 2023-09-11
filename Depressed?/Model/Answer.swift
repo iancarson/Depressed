@@ -1,6 +1,5 @@
 import ResearchKit
 
-///  An answer the user has give to a particular question.
 public struct Answer {
 
     /// The answered question.
