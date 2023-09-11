@@ -23,26 +23,20 @@ public protocol EvaluationType {
     var losingInterestCritical: Bool { get }
 
     var feelingDepressedCritical: Bool { get }
-
-    /// Whether the user answered at least four questions with at least "more than half the days".
+    
     var numberOfAnswersCritical: Bool { get }
 
-    /// The answers a user has given to all questions.
     var answers: [Answer] { get }
 }
 
-///  Evaluation that presents the results based on `ORKStepResult`s.
 public struct Evaluation: EvaluationType {
 
-    /// Whether a depressive disorder should be considered.
     public var depressiveDisorderConsidered: Bool {
         return (losingInterestCritical || feelingDepressedCritical) && numberOfAnswersCritical
     }
 
-    /// Total score based on the value of the given answers.
     public let score: Int
 
-    /// Severity of the diagnosed depression.
     public let severity: Severity
 
     /// Whether the user answered that they would be better off dead at least some of the time.
