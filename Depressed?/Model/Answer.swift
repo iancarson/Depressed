@@ -5,8 +5,6 @@ public struct Answer {
     /// The answered question.
     public let question: Question
     public let answerScore: PHQ9ChoiceValue
-
-    ///  Creates an `Answer` from an `ORKStepResult`.
     ///
     ///  - parameter stepResult: a `ORKStepResult` obtained from a `ORKTaskViewController`.
     ///
