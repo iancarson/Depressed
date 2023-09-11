@@ -39,36 +39,16 @@ public struct Evaluation: EvaluationType {
 
     public let severity: Severity
 
-    /// Whether the user answered that they would be better off dead at least some of the time.
     public private(set) var suicidal: Bool
 
-    /// Whether the user answered the question about losing interest with at least "more than half the days".
     public private(set) var losingInterestCritical: Bool
 
-    /// Whether the user answered the question about feeling depressed with at least "more than half the days".
     public private(set) var feelingDepressedCritical: Bool
 
-    /// Whether the user answered at least four questions with at least "more than half the days".
     public let numberOfAnswersCritical: Bool
 
-    /// The answers a user has given to all questions.
     public let answers: [Answer]
 
-    ///  Creates an `Evaluation` from `ORKStepResult`s.
-    ///
-    ///  - parameter stepResults: Results of the result of a completed `ORKTaskViewController`.
-    ///
-    ///  ```swift
-    ///  //MARK: - ORKTaskViewControllerDelegate
-    ///
-    ///  func taskViewController(taskViewController: ORKTaskViewController, didFinishWithReason reason: ORKTaskViewControllerFinishReason, error: NSError?) {
-    ///     if reason == .Completed, let results = taskViewController.result.results as? [ORKStepResult]{
-    ///         let evaluation = Evaluation(stepResults: results)
-    ///     }
-    ///  }
-    /// ```
-    ///
-    ///  - returns: A newly initialized Evaluation or `nil`.
     public init?(stepResults: [ORKStepResult]) {
 
         guard stepResults.count == QuestionIdentifier.count else {
