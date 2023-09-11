@@ -10,19 +10,14 @@ public enum Severity: String {
     case severeDepression
 }
 
-///  Summed up results of taking the test.
 public protocol EvaluationType {
 
-    /// Whether a depressive disorder should be considered.
     var depressiveDisorderConsidered: Bool { get }
 
-    /// Total score based on the value of the given answers.
     var score: Int { get }
 
-    /// Severity of the diagnosed depression.
     var severity: Severity { get }
 
-    /// Whether the user answered that they would be better off dead at least some of the time.
     var suicidal: Bool { get }
 
     /// Whether the user answered the question about losing interest with at least "more than half the days".
