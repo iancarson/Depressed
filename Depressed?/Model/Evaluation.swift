@@ -19,8 +19,7 @@ public protocol EvaluationType {
     var severity: Severity { get }
 
     var suicidal: Bool { get }
-
-    /// Whether the user answered the question about losing interest with at least "more than half the days".
+    
     var losingInterestCritical: Bool { get }
 
     /// Whether the user answered the question about feeling depressed with at least "more than half the days".
