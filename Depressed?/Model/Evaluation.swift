@@ -22,7 +22,6 @@ public protocol EvaluationType {
     
     var losingInterestCritical: Bool { get }
 
-    /// Whether the user answered the question about feeling depressed with at least "more than half the days".
     var feelingDepressedCritical: Bool { get }
 
     /// Whether the user answered at least four questions with at least "more than half the days".
