@@ -6,8 +6,6 @@ public struct Answer {
     public let question: Question
     public let answerScore: PHQ9ChoiceValue
     ///
-    ///  - parameter stepResult: a `ORKStepResult` obtained from a `ORKTaskViewController`.
-    ///
     ///  - returns: A newly initialized Answer or `nil`.
     public init?(stepResult: ORKStepResult) {
         guard let result = stepResult.firstResult as? ORKChoiceQuestionResult,
