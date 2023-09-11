@@ -5,7 +5,7 @@ public struct Answer {
     /// The answered question.
     public let question: Question
     public let answerScore: PHQ9ChoiceValue
-    ///  - returns: A newly initialized Answer or `nil`.
+    
     public init?(stepResult: ORKStepResult) {
         guard let result = stepResult.firstResult as? ORKChoiceQuestionResult,
             let value = result.choiceAnswers?.first as? NSNumber,
