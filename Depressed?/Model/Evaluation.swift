@@ -1,8 +1,7 @@
 import ResearchKit
 
 public enum Severity: String {
-
-    ///  No depression.
+    
     case noDepression
 
     ///  Minimal depression.
