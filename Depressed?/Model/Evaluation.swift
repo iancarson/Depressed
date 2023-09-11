@@ -4,8 +4,6 @@ public enum Severity: String {
     
     case noDepression
     case minimalDepression
-
-    ///  Mild depression.
     case mildDepression
 
     ///  Moderate depression.
