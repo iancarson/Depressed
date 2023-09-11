@@ -1,6 +1,5 @@
 import ResearchKit
 
-///  Severity of the depression.
 public enum Severity: String {
 
     ///  No depression.
