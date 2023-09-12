@@ -4,7 +4,6 @@ import ResearchKit
 ///  The values are used to calculate the overall score.
 public enum PHQ9ChoiceValue: Int {
 
-    ///  Not at all.
     case notAtAll = 0
 
     ///  Several days.
