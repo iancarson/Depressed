@@ -8,7 +8,6 @@ public enum PHQ9ChoiceValue: Int {
     case severalDays = 1
     case moreThanHalfTheDays = 2
 
-    ///  Nearly every day.
     case nearlyEveryDay = 3
 
     fileprivate var nsNumberValue: NSNumber {
