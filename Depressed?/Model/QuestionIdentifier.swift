@@ -1,7 +1,4 @@
-
 public enum QuestionIdentifier: String {
-
-    ///  Having little interest or pleasure.
     case losingInterest
 
     ///  Feeling down, depressed, or hopeless.
