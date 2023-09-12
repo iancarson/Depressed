@@ -5,11 +5,7 @@ public enum QuestionIdentifier: String {
     case feelingTired
     case poorAppetite
     case lowSelfEsteem
-
-    ///  Trouble concentrating on things.
     case troubleConcentrating
-
-    ///  Moving or speaking slowly or more than usual.
     case slowOrFast
 
     ///  Thoughts to be better off dead or of hurting yourself.
