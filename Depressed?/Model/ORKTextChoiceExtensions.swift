@@ -6,7 +6,6 @@ public enum PHQ9ChoiceValue: Int {
 
     case notAtAll = 0
 
-    ///  Several days.
     case severalDays = 1
 
     ///  More than half the days.
