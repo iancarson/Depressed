@@ -1,8 +1,6 @@
 public enum QuestionIdentifier: String {
     case losingInterest
     case feelingDepressed
-
-    ///  Trouble sleeping or sleeping too much.
     case troubleSleeping
 
     ///  Feeling tired or having little energy.
