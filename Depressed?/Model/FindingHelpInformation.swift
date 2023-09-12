@@ -1,9 +1,9 @@
 import Foundation
 
-///  Information about where the user can get help, based on their locale.
+
 public struct FindingHelpInformation {
 
-    /// A URL where the user can find help.
+    
     public let url: URL
 
     /// The name of the organization that we link to.
