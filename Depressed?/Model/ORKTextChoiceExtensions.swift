@@ -23,7 +23,7 @@ extension PHQ9ChoiceValue: Comparable {
 
 extension ORKTextChoice {
 
-    /// Choices the user can choose from, expressing the frequency.
+   
     static let phq9Choices: [ORKTextChoice] = [
         ORKTextChoice(text: NSLocalizedString("choice_not_at_all", comment: ""),
                       value: PHQ9ChoiceValue.notAtAll.nsNumberValue),
