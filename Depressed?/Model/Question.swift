@@ -1,15 +1,8 @@
 import ResearchKit
 
-///  A question the user answers.
 public struct Question {
-
-    /// The identifier of the question.
     public let identifier: QuestionIdentifier
-
-    /// A headline summing up the question.
     public let title: String
-
-    /// the complete text of the question.
     public let text: String
 
     /// An `ORKStep` representation, suitable to use with a `ORKTask`.
