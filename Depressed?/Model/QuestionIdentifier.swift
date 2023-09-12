@@ -8,8 +8,7 @@ public enum QuestionIdentifier: String {
     case troubleConcentrating
     case slowOrFast
     case feelingSuicidal
-
-    /// The total amount of question identifiers.
+    
     public static let count: Int = [
         losingInterest,
         feelingDepressed,
