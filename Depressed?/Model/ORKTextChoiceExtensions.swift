@@ -5,7 +5,6 @@ import ResearchKit
 public enum PHQ9ChoiceValue: Int {
 
     case notAtAll = 0
-
     case severalDays = 1
     case moreThanHalfTheDays = 2
 
