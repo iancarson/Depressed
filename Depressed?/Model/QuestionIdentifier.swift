@@ -7,8 +7,6 @@ public enum QuestionIdentifier: String {
     case lowSelfEsteem
     case troubleConcentrating
     case slowOrFast
-
-    ///  Thoughts to be better off dead or of hurting yourself.
     case feelingSuicidal
 
     /// The total amount of question identifiers.
