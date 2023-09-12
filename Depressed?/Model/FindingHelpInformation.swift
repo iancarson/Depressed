@@ -6,7 +6,6 @@ public struct FindingHelpInformation {
     
     public let url: URL
 
-    /// The name of the organization that we link to.
     public let organizationName: String
 
     init(url: URL, organizationName: String) {
