@@ -1,4 +1,4 @@
-///  Identifier used to identify questions and the matching results.
+
 public enum QuestionIdentifier: String {
 
     ///  Having little interest or pleasure.
