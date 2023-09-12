@@ -3,8 +3,6 @@ public enum QuestionIdentifier: String {
     case feelingDepressed
     case troubleSleeping
     case feelingTired
-
-    ///  Poor appetite or overeating.
     case poorAppetite
 
     ///  Feeling bad about yourself or like a failure.
