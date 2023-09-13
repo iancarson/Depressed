@@ -5,7 +5,7 @@ public protocol SettingsProtocol: class {
     var numberOfFinishedSurveys: Int { get set }
     /// Whether the system was asked to request a rating from the user
     var didShowRatingPrompt: Bool { get set }
-    /// increments `numberOfFinishedSurveys` by one
+
     func incrementNumberOfFinishedSurveys()
 }
 
