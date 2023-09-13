@@ -22,8 +22,7 @@ open class SelfTestTask: ORKOrderedTask {
 
         return SelfTestTask(identifier: "SelfTest", steps: steps)
     }
-
-    ///  Returns the progress of the current step.
+    
     ///
     ///  - parameter step:   The current step.
     ///  - parameter result: The current task result.
