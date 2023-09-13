@@ -3,7 +3,7 @@ import UIKit
 /// Types conforming to this protocol can store and retrieve local settings
 public protocol SettingsProtocol: class {
     var numberOfFinishedSurveys: Int { get set }
-    /// Whether the system was asked to request a rating from the user
+ 
     var didShowRatingPrompt: Bool { get set }
 
     func incrementNumberOfFinishedSurveys()
