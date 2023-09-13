@@ -1,11 +1,3 @@
-//
-//  Settings.swift
-//  Depressed?
-//
-//  Created by Christian Lobach on 27.01.19.
-//  Copyright © 2019 Christian Lobach. All rights reserved.
-//
-
 import UIKit
 
 /// Types conforming to this protocol can store and retrieve local settings
