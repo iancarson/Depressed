@@ -1,4 +1,4 @@
-//  Created by Christ
+//  Created
 //  Copyright © 2017 Christian Lobach. All rights reserved.
 //
 
