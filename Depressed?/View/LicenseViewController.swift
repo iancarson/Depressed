@@ -1,4 +1,3 @@
-
 //  Created by Christian Lobach on 04.06.17.
 //  Copyright © 2017 Christian Lobach. All rights reserved.
 //
