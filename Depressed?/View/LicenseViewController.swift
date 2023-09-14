@@ -1,4 +1,3 @@
-//
 //  LicenseViewController.swift
 //  Depressed?
 //
