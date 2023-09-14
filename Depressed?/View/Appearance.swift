@@ -1,5 +1,4 @@
-//
-//  Appearance.swift
+
 //  Depressed?
 //
 //  Created by Christian Lobach on 02.06.17.
