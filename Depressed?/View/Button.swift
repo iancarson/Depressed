@@ -1,5 +1,4 @@
 
-//
 //  Created by Christian Lobach on 21.05.17.
 //  Copyright © 2017 Christian Lobach. All rights reserved.
 //
