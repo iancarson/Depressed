@@ -1,5 +1,4 @@
 
-//  Depressed?
 //
 //  Created by Christian Lobach on 02.06.17.
 //  Copyright © 2017 Christian Lobach. All rights reserved.
