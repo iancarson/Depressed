@@ -1,4 +1,4 @@
-//  LicenseViewController.swift
+
 //  Depressed?
 //
 //  Created by Christian Lobach on 04.06.17.
