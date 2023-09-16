@@ -1,6 +1,5 @@
 import Foundation
 
-///  Viewmodel 
 public struct EvaluationViewModel {
 
     /// Diagnosis of how severe the depression is.
