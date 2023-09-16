@@ -14,7 +14,7 @@ public struct FindingHelpInformation {
     }
 
     ///  Creates a new `FindingHelpInformation` if information is available
-    ///  for the given loc
+    ///  for the given
     ///
     ///  - parameter locale: The locale for which the information is suitable.
     ///
