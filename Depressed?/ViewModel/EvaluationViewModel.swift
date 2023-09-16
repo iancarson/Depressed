@@ -5,8 +5,6 @@ public struct EvaluationViewModel {
     public let diagnosis: String
 
     public let diagnosisText: String
-
-    /// 
     public let explanationText: String
 
     /// Warning message in case the user answered that they had thoughts
