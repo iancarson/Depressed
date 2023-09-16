@@ -20,7 +20,6 @@ open class SelfTestTask: ORKOrderedTask {
         return SelfTestTask(identifier: "SelfTest", steps: steps)
     }
     
-    ///
     ///  - parameter step:   The current step.
     ///  - parameter result: The current task result.
     ///
