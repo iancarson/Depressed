@@ -2,7 +2,6 @@ import ResearchKit
 
 /// Task that contains the questions of the [PHQ-9](https://en.wikipedia.org/wiki/Patient_Health_Questionnaire#Versions) questionnaire.
 open class SelfTestTask: ORKOrderedTask {
-    ///
     ///  - returns: a newly initialized `SelfTestTask` instance.
     public class func task() -> SelfTestTask {
 
