@@ -4,7 +4,6 @@ import ResearchKit
 open class SelfTestTask: ORKOrderedTask {
     ///  - returns: a newly initialized `SelfTestTask` instance.
     public class func task() -> SelfTestTask {
-
         let steps = [
             Question(identifier: .losingInterest),
             Question(identifier: .feelingDepressed),
