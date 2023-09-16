@@ -13,7 +13,7 @@ public struct FindingHelpInformation {
         self.organizationName = organizationName
     }
 
-    ///  Creates a new `FindingHelpInformation` if informa
+    ///  Creates a new `FindingHelpInformation` if
     ///  - parameter locale: The locale for which the information is suitable.
     ///
     ///  - returns: A newly initialized `FindingHelpInformation` or `nil`.
