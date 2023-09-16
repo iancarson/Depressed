@@ -4,7 +4,7 @@ public struct EvaluationViewModel {
 
     public let diagnosis: String
 
-    /// Phrase describin
+    /// Phrase
     public let diagnosisText: String
 
     /// Explanation that relates the users answers to the diagnosis.
