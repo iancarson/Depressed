@@ -2,7 +2,7 @@ import Foundation
 
 public struct EvaluationViewModel {
 
-    /// Diagnosis of how severe the depression
+    /// Diagnosis of how severe 
     public let diagnosis: String
 
     /// Phrase describing the diagnosis.
