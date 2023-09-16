@@ -1,6 +1,6 @@
 import Foundation
 
-///  Viewmodel transforming `Evaluation` model data 
+///  Viewmodel transforming
 public struct EvaluationViewModel {
 
     /// Diagnosis of how severe the depression is.
