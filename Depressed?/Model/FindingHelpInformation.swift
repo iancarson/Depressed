@@ -2,8 +2,6 @@ import Foundation
 
 
 public struct FindingHelpInformation {
-
-    
     public let url: URL
 
     public let organizationName: String
