@@ -1,5 +1,5 @@
 
-//  ShadowLabel
+//  ShadowLab
 //  Depressed?
 //
 //  Created by Christian Lobach on 26.01.19.
