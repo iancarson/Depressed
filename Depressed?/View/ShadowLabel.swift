@@ -1,4 +1,4 @@
-//  Copyright ©
+//  Copyri
 
 
 import UIKit
