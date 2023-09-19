@@ -1,5 +1,5 @@
 
-//  Copyright © 2019 Christian Lobach. All rights reserved.
+//  Copyright © 2019 Christian Lobach. All rights r
 //
 
 import UIKit
