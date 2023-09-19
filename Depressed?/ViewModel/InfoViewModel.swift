@@ -2,7 +2,7 @@ import Foundation
 
 public struct InfoViewModel {
 
-    ///
+    
     public let versionInformation: String = {
 
         if let version = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String,
