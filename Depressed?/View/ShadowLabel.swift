@@ -1,4 +1,4 @@
-//  Created by Christian Lobach
+//  Created by Christian Lo
 //  Copyright © 2019 Christian Lobach. All rights reserved.
 //
 
