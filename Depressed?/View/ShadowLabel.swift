@@ -1,4 +1,4 @@
-//  Copyright © 2019 Christian Lobach. Al
+//  Copyright © 2019 Christian Lobach.
 
 
 import UIKit
