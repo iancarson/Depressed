@@ -13,7 +13,7 @@ public struct EvaluationViewModel {
 
     public let score: String
 
-    /// Whether the scoIf a depressive disorder is not
+    /// Whether theIf a depressive disorder is not
     /// considered, we don't want to display the score.
     public let shouldDisplayScore: Bool
 
