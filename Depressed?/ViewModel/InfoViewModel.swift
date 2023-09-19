@@ -1,6 +1,6 @@
 import Foundation
 
-///  Viewmodel for displa
+///  Viewmodel for d
 public struct InfoViewModel {
 
     /// The current version and build number as a user-presentable string.
