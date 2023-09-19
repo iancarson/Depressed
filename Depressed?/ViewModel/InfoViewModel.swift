@@ -1,6 +1,6 @@
 import Foundation
 
-///  Viewmodel for displaying 'About' informat
+///  Viewmodel for displaying 'About' infor
 public struct InfoViewModel {
 
     /// The current version and build number as a user-presentable string.
