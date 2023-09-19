@@ -11,7 +11,7 @@ public struct EvaluationViewModel {
     /// about suicide or self harm.
     public let suicidalText: String?
 
-    /// The total score of the user's ans
+    /// The total score of the user's 
     public let score: String
 
     /// Whether the score should be displayed. If a depressive disorder is not
