@@ -1,6 +1,6 @@
 import Foundation
 
-///  Viewmodel for displaying informat
+///  Viewmodel for displaying inform
 public struct FindingHelpViewModel {
 
     /// The URL of the help offer.
