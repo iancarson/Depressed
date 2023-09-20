@@ -1,6 +1,6 @@
 import Foundation
 
-///  Viewm
+///  Vie
 public struct FindingHelpViewModel {
 
     /// The URL of the help offer.
