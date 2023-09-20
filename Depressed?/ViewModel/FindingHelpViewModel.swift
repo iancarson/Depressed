@@ -1,6 +1,5 @@
 import Foundation
 
-//
 public struct FindingHelpViewModel {
 
     /// The URL of the help offer.
