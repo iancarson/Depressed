@@ -20,7 +20,7 @@ public struct EvaluationViewModel {
     /// The titles of the questions the user has answered and the corresponding score.
     public let answers: [(String, String)]
 
-    /// The viewmodel for the 'Find Help' information.
+    /// The viewmodel for the 'Find Help' informatio
     public let findingHelpViewModel: FindingHelpViewModel?
 
     /// Whether or not to display the 'Find Help' information.
