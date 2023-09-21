@@ -10,7 +10,6 @@ public protocol SettingsProtocol: class {
 }
 
 class Settings: SettingsProtocol {
-
     private let finishedSurveysUserDefaultsKey = "finishedSurveys"
     private let didShowRatingUserDefaultsKey = "didShowRatingPrompt"
 
