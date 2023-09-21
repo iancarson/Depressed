@@ -26,7 +26,6 @@ open class SelfTestTask: ORKOrderedTask {
         if let index = index {
             return ORKTaskProgress(current: UInt(index), total: UInt(steps.count))
         }
-
         return ORKTaskProgress(current: 0, total: UInt(steps.count))
     }
 
