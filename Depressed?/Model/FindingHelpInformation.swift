@@ -10,7 +10,7 @@ public struct FindingHelpInformation {
         self.url = url
         self.organizationName = organizationName
     }
-    ///  - parameter locale: The locale for which the information is suitabl
+    ///  - parameter locale: The locale for which the information is suita
     ///
     ///  - returns: A newly initialized `FindingHelpInformation` or `nil`.
     public init?(locale: Locale) {
