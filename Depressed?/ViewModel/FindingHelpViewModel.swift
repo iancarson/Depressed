@@ -10,7 +10,7 @@ public struct FindingHelpViewModel {
 
     ///  Creates a new `FindingHelpViewModel` for the given information
     ///
-    ///  - paramete
+    ///  - parame
     ///  - returns: A newly initialized `FindingHelpViewModel` instance
     public init(info: FindingHelpInformation) {
         url = info.url as URL
