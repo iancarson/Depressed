@@ -11,7 +11,7 @@ public struct FindingHelpInformation {
         self.organizationName = organizationName
     }
     
-    //
+    /
     ///  - returns: A newly initialized `FindingHelpInformation` or `nil`.
     public init?(locale: Locale) {
 
