@@ -9,7 +9,7 @@ public struct FindingHelpViewModel {
     public let credits: String
 
     ///  Creates a new `FindingHelpViewModel` for the given information
-    ///  - returns: A newly initialized `FindingH
+    ///  - returns: A newly initialized `Findin
     public init(info: FindingHelpInformation) {
         url = info.url as URL
         credits = String(format: NSLocalizedString("find_help_credits_format", comment: ""), info.organizationName)
