@@ -16,7 +16,7 @@ public struct Question {
     }
 
     ///  Creates a new `Question` from a `QuestionIdentifier`.
-    ///  - parameter identifier: a ques
+    ///  - parameter identifier: a que
     ///  - returns: A newly initialized Question.
     public init(identifier: QuestionIdentifier) {
 
