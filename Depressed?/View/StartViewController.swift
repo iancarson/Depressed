@@ -41,7 +41,7 @@ class StartViewController: UIViewController, ORKTaskViewControllerDelegate {
 
                 let findingHelpInformation = FindingHelpInformation(locale: Locale.current)
                 let viewModel = EvaluationViewModel(evaluation: evaluation, findingHelpInformation: findingHelpInformation, settings: settings)
-                // swiftlint:disable:next
+                // swiftlint:disable:nex
                 let evaluationViewController = UIStoryboard(name: "Main", bundle: Bundle.main).instantiateViewController(withIdentifier: "EvaluationViewController") as! EvaluationViewController
                 evaluationViewController.viewModel = viewModel
 
