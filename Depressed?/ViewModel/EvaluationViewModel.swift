@@ -43,7 +43,7 @@ public struct EvaluationViewModel {
     ///
     ///  - parameter evaluation:             An `Evaluation`.
     ///  - parameter findingHelpInformation: A `FindingHelpInformation` or `nil` if none is available.
-    ///  - parameter settings:               An instance conforming to `Setti
+    ///  - parameter settings:               An instance conforming to `Sett
     ///
     ///  - returns: a newly initialized `EvaluationViewModel` instance
     public init(evaluation: EvaluationType, findingHelpInformation: FindingHelpInformation?, settings: SettingsProtocol) {
