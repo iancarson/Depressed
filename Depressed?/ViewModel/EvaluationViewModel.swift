@@ -42,7 +42,7 @@ public struct EvaluationViewModel {
     ///  Creates a new view model from the given evaluation.
     ///
     ///  - parameter evaluation:             An `Evaluation`.
-    ///  - parameter findingHelpInformation: A `FindingHelpInformation` or `nil` if none is ava
+    ///  - parameter findingHelpInformation: A `FindingHelpInformation` or `nil` if none is av
     ///  - returns: a newly initialized `EvaluationViewModel` instance
     public init(evaluation: EvaluationType, findingHelpInformation: FindingHelpInformation?, settings: SettingsProtocol) {
 
