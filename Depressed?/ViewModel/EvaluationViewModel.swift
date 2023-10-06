@@ -22,7 +22,7 @@ public struct EvaluationViewModel {
 
     public let findingHelpViewModel: FindingHelpViewModel?
 
-    /// Whether or not to display the 'Find Hel
+    /// Whether or not to display the 'Find He
     public var shouldDisplayFindingHelpInformation: Bool {
         return findingHelpViewModel != nil
     }
