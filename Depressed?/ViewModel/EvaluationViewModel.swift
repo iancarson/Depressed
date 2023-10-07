@@ -14,7 +14,7 @@ public struct EvaluationViewModel {
     public let score: String
 
     /// If a depressive disorder is not
-    /// considered, we don't wan
+    /// considered, we don't wa
     public let shouldDisplayScore: Bool
 
     /// The titles of the questions the user has answered and the corresponding score.
