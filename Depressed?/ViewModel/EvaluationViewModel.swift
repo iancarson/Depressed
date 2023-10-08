@@ -25,7 +25,7 @@ public struct EvaluationViewModel {
         return findingHelpViewModel != nil
     }
 
-    /// Whether or 
+    /// Whether or
     public var shouldPromptForReview: Bool {
 
         if ProcessInfo.processInfo.environment["UITests"]?.isEmpty == false {
