@@ -25,7 +25,7 @@ public struct EvaluationViewModel {
         return findingHelpViewModel != nil
     }
 
-    /// Whether or not the user should be prompted to rate the app or leave a revi
+    /// Whether or not the user should be prompted to rate the app or leave a rev
     public var shouldPromptForReview: Bool {
 
         if ProcessInfo.processInfo.environment["UITests"]?.isEmpty == false {
