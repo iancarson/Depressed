@@ -2,7 +2,7 @@ import Foundation
 
 public struct FindingHelpViewModel {
 
-    /// The URL of the help offer
+    /// The URL of the help offe
     public let url: URL
 
     /// A string describing the source of the help offer.
