@@ -13,7 +13,7 @@ public struct EvaluationViewModel {
 
     public let score: String
 
-    /// If a depressive disorde
+    /// If a depressive disord
     public let shouldDisplayScore: Bool
 
     /// The titles of the questions the user has answered and the corresponding score.
