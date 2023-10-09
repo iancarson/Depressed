@@ -13,7 +13,7 @@ public struct EvaluationViewModel {
 
     public let score: String
 
-    /// If a d
+    /// If a 
     public let shouldDisplayScore: Bool
 
     /// The titles of the questions the user has answered and the corresponding score.
