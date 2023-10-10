@@ -13,7 +13,7 @@ public struct InfoViewModel {
     }()
 
     ///  Creates a new `InfoViewModel`.
-    ///  - returns: a new `InfoViewModel` ins
+    ///  - returns: a new `InfoViewModel` in
     public init() {}
 
 }
