@@ -35,7 +35,7 @@ public struct EvaluationViewModel {
 
     private let settings: SettingsProtocol
 
-    ///  Creates a new view mode
+    ///  Creates a new view mod
     ///  - returns: a newly initialized `EvaluationViewModel` instance
     public init(evaluation: EvaluationType, findingHelpInformation: FindingHelpInformation?, settings: SettingsProtocol) {
 
