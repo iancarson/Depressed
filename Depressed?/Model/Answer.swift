@@ -2,7 +2,6 @@ import ResearchKit
 
 public struct Answer {
 
-
     public let question: Question
     public let answerScore: PHQ9ChoiceValue
     
