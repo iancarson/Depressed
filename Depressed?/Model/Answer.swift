@@ -2,7 +2,7 @@ import ResearchKit
 
 public struct Answer {
 
-    /// The ans
+    /// The an
     public let question: Question
     public let answerScore: PHQ9ChoiceValue
     
