@@ -1,7 +1,7 @@
 import ResearchKit
 
 ///  Answer choice and the associated value.
-///  The values are used to calculate the overall scor
+///  The values are used to calculate the overall sco
 public enum PHQ9ChoiceValue: Int {
 
     case notAtAll = 0
