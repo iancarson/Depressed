@@ -1,7 +1,7 @@
 import ResearchKit
 
 ///  Answer choice and the associated value.
-///  The values are used to calculate the ove
+///  The values are used to calculate the ov
 public enum PHQ9ChoiceValue: Int {
 
     case notAtAll = 0
