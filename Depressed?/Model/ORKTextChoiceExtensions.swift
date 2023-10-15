@@ -1,6 +1,6 @@
 import ResearchKit
 
-///  Answer choi
+///  Answer cho
 public enum PHQ9ChoiceValue: Int {
 
     case notAtAll = 0
