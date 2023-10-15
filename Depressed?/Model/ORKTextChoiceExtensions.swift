@@ -1,6 +1,6 @@
 import ResearchKit
 
-///  Answe
+///  Answ
 public enum PHQ9ChoiceValue: Int {
 
     case notAtAll = 0
