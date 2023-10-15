@@ -1,6 +1,6 @@
 import ResearchKit
 
-///  Answer choice and the asso
+///  Answer choice and the ass
 public enum PHQ9ChoiceValue: Int {
 
     case notAtAll = 0
