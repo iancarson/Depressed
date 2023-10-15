@@ -15,7 +15,7 @@ public struct Question {
         return step
     }
 
-    ///  Creates a new `Question` fr
+    ///  Creates a new `Question` f
     ///  - returns: A newly initialized Question.
     public init(identifier: QuestionIdentifier) {
 
