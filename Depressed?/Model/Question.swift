@@ -5,7 +5,7 @@ public struct Question {
     public let title: String
     public let text: String
 
-    /// An `ORKStep` representation, suitable t
+    /// An `ORKStep` representation, suitable 
     public var step: ORKQuestionStep {
         let step = ORKQuestionStep(identifier: identifier.rawValue,
                                    title: title,
