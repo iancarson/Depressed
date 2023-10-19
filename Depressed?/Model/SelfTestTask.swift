@@ -1,6 +1,6 @@
 import ResearchKit
 
-/// Task that contains the questions of the [PHQ-9](https
+/// Task that contains the questions of the [PHQ-9](http
 open class SelfTestTask: ORKOrderedTask {
     
     public class func task() -> SelfTestTask {
