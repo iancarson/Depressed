@@ -1,6 +1,6 @@
 import ResearchKit
 
-/// Task that contains the questions of the [PHQ-9](https://en.wikipe
+/// Task that contains the questions of the [PHQ-9](https://en.wikip
 open class SelfTestTask: ORKOrderedTask {
     
     public class func task() -> SelfTestTask {
