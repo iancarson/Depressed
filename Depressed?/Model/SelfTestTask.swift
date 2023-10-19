@@ -1,6 +1,6 @@
 import ResearchKit
 
-/// Task that contains the questions of the [PHQ-9](https://en.wikipedia.org/wiki/Patient_Health_Questionnaire#Versions) que
+/// Task that contains the questions of the [PHQ-9](https://en.wikipedia.org/wiki/Patient_Health_Questionnaire#Versions) qu
 open class SelfTestTask: ORKOrderedTask {
     
     public class func task() -> SelfTestTask {
