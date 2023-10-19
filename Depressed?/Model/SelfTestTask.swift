@@ -1,6 +1,6 @@
 import ResearchKit
 
-/// Task that contains the questions of the [PH
+/// Task that contains the questions of the [P
 open class SelfTestTask: ORKOrderedTask {
     
     public class func task() -> SelfTestTask {
