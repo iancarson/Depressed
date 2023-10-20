@@ -1,6 +1,6 @@
 import ResearchKit
 
-/// Task that contains the que
+/// Task that contains the qu
 open class SelfTestTask: ORKOrderedTask {
     
     public class func task() -> SelfTestTask {
