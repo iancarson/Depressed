@@ -18,7 +18,7 @@ open class SelfTestTask: ORKOrderedTask {
         return SelfTestTask(identifier: "SelfTest", steps: steps)
     }
     
-    ///  - returns: The progress of the cu
+    ///  - returns: The progress of the c
     open override func progress(ofCurrentStep step: ORKStep, with result: ORKTaskResult) -> ORKTaskProgress {
         let index = steps.index(of: step)
 
