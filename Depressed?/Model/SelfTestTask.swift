@@ -1,6 +1,6 @@
 import ResearchKit
 
-/// Task that conta
+/// Task that cont
 open class SelfTestTask: ORKOrderedTask {
     
     public class func task() -> SelfTestTask {
