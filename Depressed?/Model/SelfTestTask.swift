@@ -1,6 +1,6 @@
 import ResearchKit
 
-/// Task that contains 
+/// Task that contains
 open class SelfTestTask: ORKOrderedTask {
     
     public class func task() -> SelfTestTask {
