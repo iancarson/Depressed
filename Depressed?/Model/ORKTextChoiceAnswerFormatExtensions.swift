@@ -2,7 +2,7 @@ import ResearchKit
 
 extension ORKTextChoiceAnswerFormat {
 
-    ///  Answer format with the PHQ-9 text ch
+    ///  Answer format with the PHQ-9 text c
     static let phq9Format: ORKTextChoiceAnswerFormat = ORKTextChoiceAnswerFormat(style: .singleChoice, textChoices: ORKTextChoice.phq9Choices)
 
 }
