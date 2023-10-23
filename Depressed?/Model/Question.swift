@@ -14,7 +14,7 @@ public struct Question {
         return step
     }
 
-    ///  - returns: A newly ini
+    ///  - returns: A newly in
     public init(identifier: QuestionIdentifier) {
 
         self.identifier = identifier
