@@ -1,6 +1,5 @@
 import Foundation
 
-
 public struct FindingHelpInformation {
     public let url: URL
 
