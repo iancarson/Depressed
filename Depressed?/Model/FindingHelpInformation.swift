@@ -11,7 +11,7 @@ public struct FindingHelpInformation {
         self.organizationName = organizationName
     }
     
-    ///  - returns: 
+    ///  - returns:
     public init?(locale: Locale) {
 
         guard let language = (locale as NSLocale).object(forKey: NSLocale.Key.languageCode) as? String,
