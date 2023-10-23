@@ -14,7 +14,7 @@ public struct Question {
         return step
     }
 
-    ///  - retu
+    ///  - ret
     public init(identifier: QuestionIdentifier) {
 
         self.identifier = identifier
