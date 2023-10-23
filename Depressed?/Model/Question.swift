@@ -13,7 +13,6 @@ public struct Question {
         step.isOptional = false
         return step
     }
-
     
     public init(identifier: QuestionIdentifier) {
 
