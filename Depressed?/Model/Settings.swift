@@ -1,6 +1,5 @@
 import UIKit
 
-
 public protocol SettingsProtocol: class {
     var numberOfFinishedSurveys: Int { get set }
  
