@@ -1,6 +1,6 @@
 import UIKit
 
-/// Types conforming to this protocol can store and retrieve loc
+/// Types conforming to this protocol can store and retrieve lo
 public protocol SettingsProtocol: class {
     var numberOfFinishedSurveys: Int { get set }
  
