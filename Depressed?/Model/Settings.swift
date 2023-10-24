@@ -1,6 +1,6 @@
 import UIKit
 
-/// Types conforming to this protocol can store an
+/// Types conforming to this protocol can store a
 public protocol SettingsProtocol: class {
     var numberOfFinishedSurveys: Int { get set }
  
