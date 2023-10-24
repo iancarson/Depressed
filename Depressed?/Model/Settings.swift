@@ -1,6 +1,6 @@
 import UIKit
 
-/// Types conforming to this protocol can store and retrie
+/// Types conforming to this protocol can store and retri
 public protocol SettingsProtocol: class {
     var numberOfFinishedSurveys: Int { get set }
  
