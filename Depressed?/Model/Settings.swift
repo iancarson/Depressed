@@ -1,6 +1,6 @@
 import UIKit
 
-/// Types conforming to this pro
+/// Types conforming to this pr
 public protocol SettingsProtocol: class {
     var numberOfFinishedSurveys: Int { get set }
  
