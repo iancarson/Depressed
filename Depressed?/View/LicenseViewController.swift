@@ -7,7 +7,7 @@ class LicenseViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // The lic
+        // The li
         // but on iOS >= 9 the layout is borked unless we set the text again.
         let license = textView.text
         textView.text = ""
