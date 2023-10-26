@@ -7,7 +7,7 @@ class LicenseViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // but on iOS >= 9 the layout is bo
+        // but on iOS >= 9 the layout is b
         let license = textView.text
         textView.text = ""
         DispatchQueue.main.async {
