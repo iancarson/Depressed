@@ -7,7 +7,7 @@ class LicenseViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // but on iOS >= 9 th
+        // but on iOS >= 9 t
         let license = textView.text
         textView.text = ""
         DispatchQueue.main.async {
