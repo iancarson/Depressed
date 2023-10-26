@@ -7,7 +7,7 @@ class LicenseViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // but on iOS >= 9 the layout is borked unless we set the text aga
+        // but on iOS >= 9 the layout is borked unless we set the text ag
         let license = textView.text
         textView.text = ""
         DispatchQueue.main.async {
