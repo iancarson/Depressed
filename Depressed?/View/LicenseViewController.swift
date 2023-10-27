@@ -7,7 +7,7 @@ class LicenseViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        //S
+        //Se
         let license = textView.text
         textView.text = ""
         DispatchQueue.main.async {
