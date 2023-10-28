@@ -26,7 +26,7 @@ class StartViewController: UIViewController, ORKTaskViewControllerDelegate {
         present(taskController, animated: true, completion: nil)
     }
 
-    // MARK: - ORKTas
+    // MARK: - ORKTa
     func taskViewController(_ taskViewController: ORKTaskViewController, didFinishWith reason: ORKTaskViewControllerFinishReason, error: Error?) {
 
         if reason == .completed, let results = taskViewController.result.results as? [ORKStepResult] {
