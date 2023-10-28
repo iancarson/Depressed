@@ -26,7 +26,7 @@ class StartViewController: UIViewController, ORKTaskViewControllerDelegate {
         present(taskController, animated: true, completion: nil)
     }
 
-    // MARK: - ORKTaskViewContro
+    // MARK: - ORKTaskViewContr
 
     func taskViewController(_ taskViewController: ORKTaskViewController, didFinishWith reason: ORKTaskViewControllerFinishReason, error: Error?) {
 
