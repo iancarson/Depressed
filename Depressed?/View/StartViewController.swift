@@ -27,7 +27,6 @@ class StartViewController: UIViewController, ORKTaskViewControllerDelegate {
     }
 
     // MARK: - ORKTaskViewCon
-
     func taskViewController(_ taskViewController: ORKTaskViewController, didFinishWith reason: ORKTaskViewControllerFinishReason, error: Error?) {
 
         if reason == .completed, let results = taskViewController.result.results as? [ORKStepResult] {
