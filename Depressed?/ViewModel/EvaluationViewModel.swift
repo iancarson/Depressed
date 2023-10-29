@@ -8,7 +8,7 @@ public struct EvaluationViewModel {
     public let explanationText: String
 
     /// Warning message in case the user answered that they had thoughts
-    /// about suicide or self harm
+    /// about suicide or self har
     public let suicidalText: String?
 
     public let score: String
