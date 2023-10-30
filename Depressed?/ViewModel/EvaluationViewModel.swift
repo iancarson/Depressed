@@ -34,7 +34,7 @@ public struct EvaluationViewModel {
 
     private let settings: SettingsProtocol
 
-    ///  - returns: a newly initialized `EvaluationViewM
+    ///  - returns: a newly initialized `EvaluationView
     public init(evaluation: EvaluationType, findingHelpInformation: FindingHelpInformation?, settings: SettingsProtocol) {
 
         self.settings = settings
