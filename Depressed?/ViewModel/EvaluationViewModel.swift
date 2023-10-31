@@ -92,7 +92,7 @@ public struct EvaluationViewModel {
         answers = evaluation.answers.map { ($0.question.title, String($0.answerScore.rawValue)) }
     }
 
-    /// Called when the viewController asked the system to requ
+    /// Called when the viewController asked the system to req
     public func didShowReviewPrompt() {
         settings.didShowRatingPrompt = true
     }
