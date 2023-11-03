@@ -14,7 +14,7 @@ public struct EvaluationViewModel {
 
     public let shouldDisplayScore: Bool
 
-    /// The titles of the questions the user has answered and the corresponding sco
+    /// The titles of the questions the user has answered and the corresponding sc
     public let answers: [(String, String)]
 
     public let findingHelpViewModel: FindingHelpViewModel?
