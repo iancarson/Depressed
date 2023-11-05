@@ -7,7 +7,7 @@ public struct EvaluationViewModel {
     public let diagnosisText: String
     public let explanationText: String
 
-    /// Warning message in case the user
+    /// Warning message in case the use
     public let suicidalText: String?
 
     public let score: String
