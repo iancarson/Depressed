@@ -4,7 +4,7 @@ public struct FindingHelpViewModel {
 
     public let url: URL
 
-    /// A st
+    /// A s
     public let credits: String
 
     ///  Creates a new `FindingHelpViewModel` for the given information
