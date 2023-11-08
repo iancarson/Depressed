@@ -6,7 +6,7 @@ public struct FindingHelpViewModel {
 
     public let credits: String
 
-    ///  Creates a new `FindingHelpViewModel` for th
+    ///  Creates a new `FindingHelpViewModel` for t
     public init(info: FindingHelpInformation) {
         url = info.url as URL
         credits = String(format: NSLocalizedString("find_help_credits_format", comment: ""), info.organizationName)
