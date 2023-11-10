@@ -12,7 +12,7 @@ public struct InfoViewModel {
         return ""
     }()
 
-    ///  Creates a ne
+    ///  Creates a n
     public init() {}
 
 }
