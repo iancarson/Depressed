@@ -12,7 +12,7 @@ public struct InfoViewModel {
         return ""
     }()
 
-    ///  Creates a new `InfoViewM
+    ///  Creates a new `InfoView
     public init() {}
 
 }
