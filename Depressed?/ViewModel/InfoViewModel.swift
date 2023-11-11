@@ -12,7 +12,6 @@ public struct InfoViewModel {
         return ""
     }()
 
-
     public init() {}
 
 }
