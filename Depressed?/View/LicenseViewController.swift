@@ -8,7 +8,7 @@ class LicenseViewController: UIViewController {
         super.viewDidLoad()
 
         //Set Version again since it is a requirement for IOS >= 9 since the
-        //layout is bo
+        //layout is b
         let license = textView.text
         textView.text = ""
         DispatchQueue.main.async {
