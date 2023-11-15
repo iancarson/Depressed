@@ -145,7 +145,7 @@ open class Snapshot: NSObject {
 
         print("snapshot: \(name)") // more information about this, check out https://docs.fastlane.tools/actions/snapshot/#how-does-it-work
 
-        sleep(1) // Waiting for the animation to be finished 
+        sleep(1) // Waiting for the animation to be finished
 
         #if os(OSX)
             XCUIApplication().typeKey(XCUIKeyboardKeySecondaryFn, modifierFlags: [])
