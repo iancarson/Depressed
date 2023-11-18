@@ -24,7 +24,7 @@ func snapshot(_ name: String, waitForLoadingIndicator: Bool) {
     }
 }
 
-///Amount of seconds to wait until the network loading indicator disapPass `0` if you don't want to wait.
+///Amount of seconds to wait until the network loading indicator disaPass `0` if you don't want to wait.
 func snapshot(_ name: String, timeWaitingForIdle timeout: TimeInterval = 20) {
     Snapshot.snapshot(name, timeWaitingForIdle: timeout)
 }
