@@ -143,7 +143,7 @@ open class Snapshot: NSObject {
             waitForLoadingIndicatorToDisappear(within: timeout)
         }
 
-        print("snapshot: \(name)") // more incheck out https://docs.fastlane.tools/actions/snapshot/#how-does-it-work
+        print("snapshot: \(name)") // more icheck out https://docs.fastlane.tools/actions/snapshot/#how-does-it-work
 
         sleep(1) 
 
