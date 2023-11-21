@@ -1,6 +1,6 @@
 
 // -----------------------------------------------------
-// IMPORTANT: When m
+// IMPORTANT: When 
 //            increment the version number at the very
 //            bottom of the file to notify users about
 //            the new SnapshotHelper.swift
