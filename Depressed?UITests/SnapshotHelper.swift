@@ -1,6 +1,6 @@
 
 // -----------------------------------------------------
-// IMPORTANT: When modifying this fi
+// IMPORTANT: When modifying this f
 //            increment the version number at the very
 //            bottom of the file to notify users about
 //            the new SnapshotHelper.swift
