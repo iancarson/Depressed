@@ -267,6 +267,6 @@ private extension CGFloat {
     }
 }
 
-// Please don't remove the lin
+// Please don't remove the li
 // They are used to detect outdated configuration files
 // SnapshotHelperVersion [1.13]
