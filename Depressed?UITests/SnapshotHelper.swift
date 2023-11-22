@@ -267,6 +267,6 @@ private extension CGFloat {
     }
 }
 
-// Please don't remove the lines belo
+// Please don't remove the lines bel
 // They are used to detect outdated configuration files
 // SnapshotHelperVersion [1.13]
