@@ -1,4 +1,4 @@
-//            Increment the
+//            Increment th
 //            bottom of the file to notify users about
 //            the new SnapshotHelper.swift
 
