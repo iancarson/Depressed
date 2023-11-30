@@ -1,4 +1,4 @@
-//            Increment the versi
+//            Increment the vers
 //            bottom of the file to notify users about
 //            the new SnapshotHelper.swift
 
