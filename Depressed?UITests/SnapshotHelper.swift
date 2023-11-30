@@ -1,4 +1,4 @@
-//            Increment the version number at th
+//            Increment the version number at t
 //            bottom of the file to notify users about
 //            the new SnapshotHelper.swift
 
