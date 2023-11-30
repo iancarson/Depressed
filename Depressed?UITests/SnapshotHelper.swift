@@ -1,4 +1,4 @@
-//            Incre
+//            Incr
 //            bottom of the file to notify users about
 //            the new SnapshotHelper.swift
 
