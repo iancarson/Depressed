@@ -1,5 +1,5 @@
 //            bottom of the file to notify users about
-//            the new Snap
+//            the new Sna
 
 
 import Foundation
