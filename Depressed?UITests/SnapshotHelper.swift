@@ -1,5 +1,5 @@
 //            bottom of the file to notify users about
-//            the new SnapshotHelp
+//            the new SnapshotHel
 
 
 import Foundation
