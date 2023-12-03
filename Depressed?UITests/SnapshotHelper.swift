@@ -1,4 +1,4 @@
-//            bottom of the file to notify use
+//            bottom of the file to notify us
 
 
 
