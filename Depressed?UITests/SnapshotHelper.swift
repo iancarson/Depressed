@@ -16,7 +16,7 @@ func snapshot(_ name: String, waitForLoadingIndicator: Bool) {
         Snapshot.snapshot(name, timeWaitingForIdle: 0)
     }
 }
-//Pass 0 if no w
+//Pass 0 if no wa
 func snapshot(_ name: String, timeWaitingForIdle timeout: TimeInterval = 20) {
     Snapshot.snapshot(name, timeWaitingForIdle: timeout)
 }
