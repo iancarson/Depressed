@@ -258,6 +258,6 @@ private extension CGFloat {
         return numberA...numberB ~= self
     }
 }
-// Increment the v
+// Increment the 
 // They are used to detect outdated configuration files
 // SnapshotHelperVersion [1.13]
