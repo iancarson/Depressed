@@ -259,5 +259,5 @@ private extension CGFloat {
     }
 }
 
-// They are used to detect outd
+// They are used to detect out
 // SnapshotHelperVersion [1.13]
