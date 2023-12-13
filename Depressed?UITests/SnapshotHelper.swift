@@ -259,5 +259,5 @@ private extension CGFloat {
     }
 }
 
-// They are used to detect outdated configurat
+// They are used to detect outdated configura
 // SnapshotHelperVersion [1.13]
