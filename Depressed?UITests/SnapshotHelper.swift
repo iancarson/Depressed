@@ -260,4 +260,4 @@ private extension CGFloat {
 }
 //Increase the counter everytime a change is made
 // They are used to detect outdated version
-// SnapshotHelperVersion [1.1]
+// SnapshotHelperVersion [1.14]
