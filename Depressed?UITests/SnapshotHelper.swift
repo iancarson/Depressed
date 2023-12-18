@@ -258,6 +258,6 @@ private extension CGFloat {
         return numberA...numberB ~= self
     }
 }
-//Increase the counter ever
+//Increase the counter every
 // They are used to detect outdated version
 // SnapshotHelperVersion [1.13]
