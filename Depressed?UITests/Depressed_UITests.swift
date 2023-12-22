@@ -92,5 +92,5 @@ class Depressed_UITests: XCTestCase {
         snapshot("05ResultDetailsBottom")
     }
     
-    
+
 }
