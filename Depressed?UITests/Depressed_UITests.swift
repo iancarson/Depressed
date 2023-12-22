@@ -91,5 +91,5 @@ class Depressed_UITests: XCTestCase {
         app.tables.element.swipeUp()
         snapshot("05ResultDetailsBottom")
     }
-    
+ 
 }
