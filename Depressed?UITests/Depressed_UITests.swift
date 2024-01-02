@@ -11,7 +11,7 @@ class Depressed_UITests: XCTestCase {
         app.launch()
         
     }
-    //Testin
+    //Testi
     func testScreenshots() {
 
         let app = XCUIApplication()
